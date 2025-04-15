@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm on GitHub to learn how to create my own web apps. 
+I love reading books and playing piano.
+
 <!--
 **Zacorn6/Zacorn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
